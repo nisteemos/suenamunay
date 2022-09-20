@@ -1,0 +1,5 @@
+ip: 185.213.81.253
+usuario: u324711985.developer
+clave: QEd@vqXG5^8R
+
+ng build my-app --aot --build-optimizer --extract-licenses --optimization
